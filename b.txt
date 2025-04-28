@@ -1,1 +1,5 @@
 file b edited in car
+
+file b edited in bike branch bike
+
+file b edited in car branch 
